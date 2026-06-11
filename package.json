@@ -1,0 +1,21 @@
+{
+  "name": "playwright-api-booker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.3",
+    "allure-commandline": "^2.42.1",
+    "allure-playwright": "^3.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
